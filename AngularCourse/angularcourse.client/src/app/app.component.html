@@ -1,24 +1,32 @@
-﻿<h1 id="tableLabel">Weather forecast</h1>
+<app-header />
 
-<p>This component demonstrates fetching data from the server.</p>
+<main>
+  <ul id="users">
+    <li>
+      <app-user [id]="users[0].id"
+                [avatar]="users[0].avatar"
+                [name]="users[0].name"
+                (select)="onSelectUser($event)" />
+    </li>
+    <li>
+      <app-user [id]="users[1].id"
+                [avatar]="users[1].avatar"
+                [name]="users[1].name"
+                (select)="onSelectUser($event)" />
+    </li>
+    <li>
+      <app-user [id]="users[2].id"
+                [avatar]="users[2].avatar"
+                [name]="users[2].name"
+                (select)="onSelectUser($event)" />
+    </li>
+    <li>
+      <app-user [id]="users[3].id"
+                [avatar]="users[3].avatar"
+                [name]="users[3].name"
+                (select)="onSelectUser($event)" />
+    </li>
+  </ul>
 
-<p *ngIf="!forecasts"><em>Loading... Please refresh once the ASP.NET backend has started. See <a href="https://aka.ms/jspsintegrationangular">https://aka.ms/jspsintegrationangular</a> for more details.</em></p>
-
-<table *ngIf="forecasts">
-    <thead>
-        <tr>
-            <th>Date</th>
-            <th>Temp. (C)</th>
-            <th>Temp. (F)</th>
-            <th>Summary</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr *ngFor="let forecast of forecasts">
-            <td>{{ forecast.date }}</td>
-            <td>{{ forecast.temperatureC }}</td>
-            <td>{{ forecast.temperatureF }}</td>
-            <td>{{ forecast.summary }}</td>
-        </tr>
-    </tbody>
-</table>
+  <app-tasks [name]="selectedUser.name" />
+</main>
