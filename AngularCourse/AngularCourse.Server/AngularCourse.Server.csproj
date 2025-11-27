@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\angularcourse.client\angularcourse.client.esproj">
+    <ProjectReference Include="..\angularcourse.client\angularcourse-Day1-Essentials.client.esproj">
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
