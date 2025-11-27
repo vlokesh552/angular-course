@@ -1,11 +1,15 @@
 <Solution>
-  <Project Path="angularcourse-Day2-Essentials-modules.client/angularcourse-Day2-Essentials-modules.client.esproj">
-    <Build />
-    <Deploy />
-  </Project>
-  <Project Path="AngularCourse/angularcourse.client/angularcourse-Day1-Essentials.client.esproj">
-    <Build />
-    <Deploy />
-  </Project>
   <Project Path="AngularCourse/AngularCourse.Server/AngularCourse.Server.csproj" />
+  <Project Path="AngularCourse/day1-essentials.client/day1-essentials.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="AngularCourse/day2-essentials-InvestCalcPractice.client/day2-essentials-InvestCalcPractice.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="AngularCourse/day2-essentials-modules.client/day2-essentials-modules.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
 </Solution>
