@@ -12,4 +12,8 @@
     <Build />
     <Deploy />
   </Project>
+  <Project Path="day2-components-templates/day2-components-templates.esproj">
+    <Build />
+    <Deploy />
+  </Project>
 </Solution>

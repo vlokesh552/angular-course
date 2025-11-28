@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AngularCourse.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05b73758dc8c3e36f1069ac395ae8e5294bf25d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cd7284807729e1a7430343f0d27fd1dfbab56b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AngularCourse.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AngularCourse.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
