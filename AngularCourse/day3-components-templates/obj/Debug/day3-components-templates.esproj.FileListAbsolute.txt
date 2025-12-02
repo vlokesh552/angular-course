@@ -1,0 +1,1 @@
+C:\Projects\angular-course\day2-components-templates\obj\Debug\day3-components-templates.esproj.CoreCompileInputs.cache

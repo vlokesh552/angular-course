@@ -1,0 +1,1 @@
+C:\Projects\angular-course\AngularCourse\day2-essentials-InvestCalcPractice.client\obj\Debug\day2-essentials-InvestCalcPractice.esproj.CoreCompileInputs.cache

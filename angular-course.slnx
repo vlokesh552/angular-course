@@ -12,7 +12,11 @@
     <Build />
     <Deploy />
   </Project>
-  <Project Path="day2-components-templates/day2-components-templates.esproj">
+  <Project Path="AngularCourse/day3-components-templates/day3-components-templates.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="AngularCourse/day4-elements-directives/day4-elements-directives.esproj">
     <Build />
     <Deploy />
   </Project>
