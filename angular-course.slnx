@@ -20,4 +20,12 @@
     <Build />
     <Deploy />
   </Project>
+  <Project Path="AngularCourse/day5-pipes/day5-pipes.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="AngularCourse/day5-services-di/day5-services-di.esproj">
+    <Build />
+    <Deploy />
+  </Project>
 </Solution>
