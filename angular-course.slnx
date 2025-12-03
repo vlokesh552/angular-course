@@ -28,4 +28,8 @@
     <Build />
     <Deploy />
   </Project>
+  <Project Path="AngularCourse/day6-change-detection/day6-change-detection.esproj">
+    <Build />
+    <Deploy />
+  </Project>
 </Solution>
