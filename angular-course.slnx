@@ -32,6 +32,10 @@
     <Build />
     <Deploy />
   </Project>
+  <Project Path="AngularCourse/day6-http-requests/day6-http-requests.esproj">
+    <Build />
+    <Deploy />
+  </Project>
   <Project Path="AngularCourse/day6-rxjs-observables/day6-rxjs-observables.esproj">
     <Build />
     <Deploy />
