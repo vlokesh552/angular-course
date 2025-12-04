@@ -40,4 +40,8 @@
     <Build />
     <Deploy />
   </Project>
+  <Project Path="AngularCourse/day7-forms/day7-forms.esproj">
+    <Build />
+    <Deploy />
+  </Project>
 </Solution>
