@@ -44,4 +44,16 @@
     <Build />
     <Deploy />
   </Project>
+  <Project Path="AngularCourse/day8-lazy-loading/day8-lazy-loading.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="AngularCourse/day8-routing/day8-routing.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="AngularCourse/day9-deployment/day9-deployment.esproj">
+    <Build />
+    <Deploy />
+  </Project>
 </Solution>
